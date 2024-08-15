@@ -1,6 +1,6 @@
 <p style="text-align: center;">ｃｏｄｅ　ｍａｇｉ :3</p>
 <p style="text-align: center;">♡ Software Engineering eternally passionate about life 🌱</p>
-<p style="text-align: center;">♡ Hacker, dancer & writer in my free time.</p>
+<p style="text-align: center;">♡ Dancer & Writer in my free time.</p>
 <p style="text-align: center;">♡ (my stacks)</p>
 <p style="text-align: center;">Em memória e honra à todas as almas inocentes que já foram, que estão indo e que ainda vão. Suas essências jamais serão esquecidas na chama eterna da vida.</p>
 
